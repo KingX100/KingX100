@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KingX100
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on Discord: KingX100#0100
 
 <!---
 KingX100/KingX100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
